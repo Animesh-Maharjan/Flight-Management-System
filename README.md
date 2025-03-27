@@ -47,7 +47,6 @@ The project is structured into separate modules:
 - Eclipse IDE (or any Java IDE)
 
 ## Future Enhancements
-- Implement GUI using JavaFX or Swing.
 - Add a database instead of file-based storage.
 - Introduce user authentication for admins and customers.
 
